@@ -6,9 +6,7 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/omni_KINGKONG_9.mk
+    $(LOCAL_DIR)/twrp_KINGKONG_9.mk
 
 COMMON_LUNCH_CHOICES := \
-    omni_KINGKONG_9-user \
-    omni_KINGKONG_9-userdebug \
-    omni_KINGKONG_9-eng
+    twrp_KINGKONG_9-eng
