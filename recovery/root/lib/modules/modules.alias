@@ -1,4 +1,6 @@
 # Aliases extracted from modules themselves.
+alias of:N*T*Cfocaltech,fts focaltech_touch_ft8725
+alias of:N*T*Cfocaltech,ftsC* focaltech_touch_ft8725
 alias of:N*T*Cmediatek,mt2701-auxadc mt6577_auxadc
 alias of:N*T*Cmediatek,mt2701-auxadcC* mt6577_auxadc
 alias of:N*T*Cmediatek,mt2712-auxadc mt6577_auxadc
